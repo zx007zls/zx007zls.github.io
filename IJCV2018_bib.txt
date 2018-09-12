@@ -1,9 +1,8 @@
 @Article{ARobust2018,
-author="Zhong, Leisheng
-and Zhang, Li",
-title="A Robust Monocular 3D Object Tracking Method Combining Statistical and Photometric Constraints",
-journal="International Journal of Computer Vision",
-year="2018",
-doi="10.1007/s11263-018-1119-x",
-url="https://doi.org/10.1007/s11263-018-1119-x"
+author={Zhong, Leisheng and Zhang, Li},
+title={A Robust Monocular 3D Object Tracking Method Combining Statistical and Photometric Constraints},
+journal={International Journal of Computer Vision},
+year={2018},
+doi={10.1007/s11263-018-1119-x},
+url={https://doi.org/10.1007/s11263-018-1119-x}
 }
