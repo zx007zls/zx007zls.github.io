@@ -5,6 +5,6 @@ journal={International Journal of Computer Vision},
 year={2019},
 volume={127},
 number={8},
-pages="973--992",
+pages={973--992},
 doi={10.1007/s11263-018-1119-x}
 }
