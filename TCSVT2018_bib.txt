@@ -1,4 +1,4 @@
-@ARTICLE{Direct3D2018,
+@ARTICLE{ZhongTCSVT2018,
 author={L. Zhong and M. Lu and L. Zhang}, 
 journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
 title={A Direct 3D Object Tracking Method Based on Dynamic Textured Model Rendering and Extended Dense Feature Fields}, 
@@ -6,6 +6,5 @@ year={2018},
 volume={28}, 
 number={9}, 
 pages={2302-2315}, 
-doi={10.1109/TCSVT.2017.2731519},
-url={https://doi.org/10.1109/TCSVT.2017.2731519}
+doi={10.1109/TCSVT.2017.2731519}
 }
