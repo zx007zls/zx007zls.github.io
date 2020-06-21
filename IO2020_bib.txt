@@ -1,0 +1,8 @@
+@article{zhang2020new,
+  title={New perspectives on surgical accuracy analysis of image-guided bone tumour resection surgery},
+  author={Zhang, Yu and Zhang, Qing and Zhong, Leisheng and Qiu, Lei and Xu, Lihui and Sun, Yang and Niu, Xiaohui and Zhang, Li},
+  journal={International Orthopaedics},
+  pages={1--8},
+  year={2020},
+  publisher={Springer}
+}
