@@ -1,0 +1,9 @@
+@ARTICLE{ZhongRAL2020,
+author={L. {Zhong} and Y. {Zhang} and H. {Zhao} and A. {Chang} and W. {Xiang} and S. {Zhang} and L. {Zhang}},
+journal={IEEE Robotics and Automation Letters}, 
+title={Seeing Through the Occluders: Robust Monocular 6-DOF Object Pose Tracking via Model-guided Video Object Segmentation}, 
+year={2020},
+volume={},
+number={},
+pages={}
+}
